@@ -79,6 +79,7 @@ a:hover {color: var(--umber);}
 
 .intro__arrow-down:hover .intro__arrow-icon {fill: var(--umber);}
 
+.slide-img {height: 100%;}
 .slide-img img {-o-object-fit: cover;object-fit: cover;}
 
 
